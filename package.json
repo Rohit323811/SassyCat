@@ -1,0 +1,17 @@
+{
+  "name": "sassycat-desktop",
+  "version": "1.0.0",
+  "description": "SassyCat - a transparent, always-on-top desktop pet",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "active-win": "^8.2.1"
+  },
+  "devDependencies": {
+    "electron": "^45.2.1",
+    "electron-builder": "^26.18.0"
+  }
+}
